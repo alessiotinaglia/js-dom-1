@@ -12,8 +12,20 @@
     align-items: center;
 }
 
-.button{
+#cambiaImg{
     font-size: 3em;
     border-radius: 25px;
     padding: 10px;
+    cursor: pointer;
 }
+
+.img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.debug{
+    border: 1px solid black;
+}
+
