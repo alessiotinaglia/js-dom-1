@@ -19,13 +19,4 @@
     cursor: pointer;
 }
 
-.img{
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-.debug{
-    border: 1px solid black;
-}
 
